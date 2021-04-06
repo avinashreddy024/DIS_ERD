@@ -1,0 +1,15 @@
+C:\Users\Avinash Reddy\Desktop\MVC_EF_Start\MVC_EF_Start\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\Avinash Reddy\Desktop\MVC_EF_Start\MVC_EF_Start\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\Avinash Reddy\Desktop\MVC_EF_Start\MVC_EF_Start\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Avinash Reddy\Desktop\MVC_EF_Start\MVC_EF_Start\bin\Debug\netcoreapp2.0\MVC_EntityFramework.deps.json
+C:\Users\Avinash Reddy\Desktop\MVC_EF_Start\MVC_EF_Start\bin\Debug\netcoreapp2.0\MVC_EntityFramework.runtimeconfig.json
+C:\Users\Avinash Reddy\Desktop\MVC_EF_Start\MVC_EF_Start\bin\Debug\netcoreapp2.0\MVC_EntityFramework.runtimeconfig.dev.json
+C:\Users\Avinash Reddy\Desktop\MVC_EF_Start\MVC_EF_Start\bin\Debug\netcoreapp2.0\MVC_EntityFramework.dll
+C:\Users\Avinash Reddy\Desktop\MVC_EF_Start\MVC_EF_Start\bin\Debug\netcoreapp2.0\MVC_EntityFramework.pdb
+C:\Users\Avinash Reddy\Desktop\MVC_EF_Start\MVC_EF_Start\obj\Debug\netcoreapp2.0\MVC_EntityFramework.AssemblyInfoInputs.cache
+C:\Users\Avinash Reddy\Desktop\MVC_EF_Start\MVC_EF_Start\obj\Debug\netcoreapp2.0\MVC_EntityFramework.AssemblyInfo.cs
+C:\Users\Avinash Reddy\Desktop\MVC_EF_Start\MVC_EF_Start\obj\Debug\netcoreapp2.0\MVC_EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Avinash Reddy\Desktop\MVC_EF_Start\MVC_EF_Start\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Avinash Reddy\Desktop\MVC_EF_Start\MVC_EF_Start\obj\Debug\netcoreapp2.0\MVC_EntityFramework.dll
+C:\Users\Avinash Reddy\Desktop\MVC_EF_Start\MVC_EF_Start\obj\Debug\netcoreapp2.0\MVC_EntityFramework.pdb
+C:\Users\Avinash Reddy\Desktop\MVC_EF_Start\MVC_EF_Start\obj\Debug\netcoreapp2.0\MVC_EntityFramework.genruntimeconfig.cache
